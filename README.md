@@ -4,6 +4,6 @@
 >status do projeto: em desevolvimento
 Para rodar esse projeto digite:
 ```
-npn install
+node app.js
 
 ```
